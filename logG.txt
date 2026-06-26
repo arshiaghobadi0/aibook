@@ -1,0 +1,115 @@
+* commit 851010f392af9d89a88e5d211a1b616a39079c16
+| Author: Arshia Ghobadi <arshiaghobadi0@gmail.com>
+| Date:   Thu Jun 25 22:19:30 2026 +0330
+| 
+|     Add List of Chapters
+| 
+| diff --git a/README.md b/README.md
+| index 6430865..9b628c8 100644
+| --- a/README.md
+| +++ b/README.md
+| @@ -4,5 +4,9 @@ first repo in new github for lerning
+|  
+|  new i test remoted option's
+|  
+| +# List Of Chapters
+| +
+| +* 1-fixes issues
+| +
+|  # More...
+|  
+| 
+* commit ed352282eb1ea4d5216dedca9946744c0ef5f373
+| Author: AG-r <arshiaghobadi0@gmail.com>
+| Date:   Thu Jun 25 22:12:16 2026 +0330
+| 
+|     retest commit, issues fixes #1
+| 
+| diff --git a/README.md b/README.md
+| index 886f375..6430865 100644
+| --- a/README.md
+| +++ b/README.md
+| @@ -5,3 +5,4 @@ first repo in new github for lerning
+|  new i test remoted option's
+|  
+|  # More...
+| +
+| 
+* commit a75c7d0ac67a88f6921982f1921040a2515d8c97
+| Author: AG-r <arshiaghobadi0@gmail.com>
+| Date:   Wed Jun 24 09:26:53 2026 +0330
+| 
+|     soulleded issues #1
+| 
+| diff --git a/README.md b/README.md
+| index b043bb8..886f375 100644
+| --- a/README.md
+| +++ b/README.md
+| @@ -1,5 +1,7 @@
+|  # aibook
+|  
+| -first repo in new github for lerning more...
+| +first repo in new github for lerning 
+|  
+|  new i test remoted option's
+| +
+| +# More...
+| 
+* commit 00f840e6525be694de623a804db1bd11ce066371
+| Author: AG-r <arshiaghobadi0@gmail.com>
+| Date:   Wed Jun 24 09:20:42 2026 +0330
+| 
+|     first commit IN remote git/git hub
+| 
+| diff --git a/README.md b/README.md
+| index b824ded..b043bb8 100644
+| --- a/README.md
+| +++ b/README.md
+| @@ -1,2 +1,5 @@
+|  # aibook
+| +
+|  first repo in new github for lerning more...
+| +
+| +new i test remoted option's
+| 
+* commit bd2669ad8ba85020ef8ef4637f3547baf162740a
+  Author: Arshia Ghobadi <arshiaghobadi0@gmail.com>
+  Date:   Sun Jun 21 21:03:25 2026 +0330
+  
+      Initial commit
+  
+  diff --git a/LICENSE b/LICENSE
+  new file mode 100644
+  index 0000000..c2488c0
+  --- /dev/null
+  +++ b/LICENSE
+  @@ -0,0 +1,21 @@
+  +MIT License
+  +
+  +Copyright (c) 2026 Arshia Ghobadi
+  +
+  +Permission is hereby granted, free of charge, to any person obtaining a copy
+  +of this software and associated documentation files (the "Software"), to deal
+  +in the Software without restriction, including without limitation the rights
+  +to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  +copies of the Software, and to permit persons to whom the Software is
+  +furnished to do so, subject to the following conditions:
+  +
+  +The above copyright notice and this permission notice shall be included in all
+  +copies or substantial portions of the Software.
+  +
+  +THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  +IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  +FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  +AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  +LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  +OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  +SOFTWARE.
+  diff --git a/README.md b/README.md
+  new file mode 100644
+  index 0000000..b824ded
+  --- /dev/null
+  +++ b/README.md
+  @@ -0,0 +1,2 @@
+  +# aibook
+  +first repo in new github for lerning more...
